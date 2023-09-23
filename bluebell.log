@@ -1,0 +1,190 @@
+{"level":"DEBUG","time":"2023-09-22T22:03:27.993+0800","caller":"BlueBell/main.go:34","msg":"logger init success"}
+{"level":"ERROR","time":"2023-09-22T22:03:28.010+0800","caller":"mysql/mysql.go:32","msg":"connect DB failed","error":"Error 1130: Host 'ʮ????????ʮ??Ԫ' is not allowed to connect to this MySQL server"}
+{"level":"DEBUG","time":"2023-09-22T22:03:45.782+0800","caller":"BlueBell/main.go:34","msg":"logger init success"}
+{"level":"ERROR","time":"2023-09-22T22:03:45.793+0800","caller":"mysql/mysql.go:32","msg":"connect DB failed","error":"Error 1130: Host 'ʮ????????ʮ??Ԫ' is not allowed to connect to this MySQL server"}
+{"level":"DEBUG","time":"2023-09-22T22:05:01.437+0800","caller":"BlueBell/main.go:34","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-09-22T22:05:30.358+0800","caller":"BlueBell/main.go:34","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-09-22T22:06:02.314+0800","caller":"BlueBell/main.go:34","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-09-22T22:07:04.556+0800","caller":"BlueBell/main.go:34","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-09-22T22:08:29.564+0800","caller":"BlueBell/main.go:34","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-09-22T22:30:44.329+0800","caller":"BlueBell/main.go:34","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-09-22T22:32:19.786+0800","caller":"BlueBell/main.go:34","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-09-22T22:32:41.321+0800","caller":"BlueBell/main.go:34","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-09-22T22:32:54.967+0800","caller":"BlueBell/main.go:34","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-09-22T22:33:11.357+0800","caller":"BlueBell/main.go:34","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-09-22T22:33:53.767+0800","caller":"BlueBell/main.go:34","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-09-22T22:34:03.032+0800","caller":"BlueBell/main.go:34","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-09-22T22:35:03.438+0800","caller":"BlueBell/main.go:34","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-09-22T22:38:32.066+0800","caller":"BlueBell/main.go:34","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-09-22T22:40:15.724+0800","caller":"BlueBell/main.go:34","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-09-22T22:40:39.925+0800","caller":"BlueBell/main.go:34","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-09-22T22:41:11.923+0800","caller":"BlueBell/main.go:34","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-22T22:42:38.244+0800","caller":"BlueBell/main.go:75","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-22T22:42:38.244+0800","caller":"BlueBell/main.go:83","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T07:50:51.672+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-09-23T07:51:17.186+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T07:52:01.641+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T07:52:01.641+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T08:42:06.328+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T08:42:23.094+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0005066}
+{"level":"INFO","time":"2023-09-23T08:42:44.199+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0005064}
+{"level":"INFO","time":"2023-09-23T08:43:00.229+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0004129}
+{"level":"INFO","time":"2023-09-23T08:43:08.016+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0010978}
+{"level":"INFO","time":"2023-09-23T08:44:58.017+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T08:44:58.017+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T08:45:01.951+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T08:45:08.618+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.000551}
+{"level":"INFO","time":"2023-09-23T08:45:14.147+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0007614}
+{"level":"INFO","time":"2023-09-23T08:45:19.354+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0003701}
+{"level":"INFO","time":"2023-09-23T08:45:24.338+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0}
+{"level":"INFO","time":"2023-09-23T08:45:30.954+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0002096}
+{"level":"INFO","time":"2023-09-23T08:45:36.734+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0003315}
+{"level":"INFO","time":"2023-09-23T08:45:40.336+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0004369}
+{"level":"INFO","time":"2023-09-23T08:45:46.104+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0}
+{"level":"INFO","time":"2023-09-23T08:53:30.753+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T08:53:30.753+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T08:53:34.762+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"ERROR","time":"2023-09-23T08:53:47.563+0800","caller":"controller/userController.go:22","msg":"SignUp with invalid param","error":"invalid character '}' looking for beginning of object key string"}
+{"level":"INFO","time":"2023-09-23T08:53:47.564+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0005058}
+{"level":"INFO","time":"2023-09-23T08:55:33.167+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T08:55:33.167+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T08:55:37.182+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"ERROR","time":"2023-09-23T08:55:40.634+0800","caller":"controller/userController.go:22","msg":"SignUp with invalid param","error":"invalid character '}' looking for beginning of object key string"}
+{"level":"INFO","time":"2023-09-23T08:55:40.634+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0005051}
+{"level":"ERROR","time":"2023-09-23T08:55:47.394+0800","caller":"controller/userController.go:22","msg":"SignUp with invalid param","error":"Key: 'UserRegisterParams.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"INFO","time":"2023-09-23T08:55:47.394+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0005881}
+{"level":"INFO","time":"2023-09-23T09:05:14.003+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0012652}
+{"level":"INFO","time":"2023-09-23T09:05:52.957+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0}
+{"level":"INFO","time":"2023-09-23T09:06:02.259+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0006552}
+{"level":"ERROR","time":"2023-09-23T09:06:28.251+0800","caller":"controller/userController.go:22","msg":"SignUp with invalid param","error":"Key: 'UserRegisterParams.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"INFO","time":"2023-09-23T09:06:28.252+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0008696}
+{"level":"INFO","time":"2023-09-23T09:07:02.379+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T09:07:02.379+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T09:07:06.291+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"ERROR","time":"2023-09-23T09:07:13.930+0800","caller":"controller/userController.go:23","msg":"SignUp with invalid param","error":"Key: 'UserRegisterParams.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"INFO","time":"2023-09-23T09:07:13.930+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0005192}
+{"level":"ERROR","time":"2023-09-23T09:07:25.945+0800","caller":"controller/userController.go:23","msg":"SignUp with invalid param","error":"Key: 'UserRegisterParams.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"INFO","time":"2023-09-23T09:07:25.945+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0009429}
+{"level":"ERROR","time":"2023-09-23T09:07:43.109+0800","caller":"controller/userController.go:23","msg":"SignUp with invalid param","error":"Key: 'UserRegisterParams.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"INFO","time":"2023-09-23T09:07:43.109+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0008197}
+{"level":"ERROR","time":"2023-09-23T09:07:49.792+0800","caller":"controller/userController.go:23","msg":"SignUp with invalid param","error":"Key: 'UserRegisterParams.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"INFO","time":"2023-09-23T09:07:49.792+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0003182}
+{"level":"INFO","time":"2023-09-23T09:08:05.626+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0007525}
+{"level":"INFO","time":"2023-09-23T09:10:06.776+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T09:10:06.776+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T09:10:10.981+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"ERROR","time":"2023-09-23T09:10:16.371+0800","caller":"controller/userController.go:23","msg":"SignUp with invalid param","error":"Key: 'UserRegisterParams.RePassword' Error:Field validation for 'RePassword' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2023-09-23T09:10:16.371+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0005227}
+{"level":"INFO","time":"2023-09-23T09:10:59.944+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T09:10:59.944+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T09:11:04.578+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T09:11:12.776+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T09:11:12.776+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T09:11:16.052+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"ERROR","time":"2023-09-23T09:11:19.245+0800","caller":"controller/userController.go:23","msg":"SignUp with invalid param","error":"Key: 'UserRegisterParams.RePassword' Error:Field validation for 'RePassword' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2023-09-23T09:11:19.245+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0005059}
+{"level":"INFO","time":"2023-09-23T09:11:30.506+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0015062}
+{"level":"INFO","time":"2023-09-23T09:36:50.272+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T09:36:50.274+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T09:36:55.889+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T09:37:07.952+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0083412}
+{"level":"INFO","time":"2023-09-23T09:37:21.372+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.000971}
+{"level":"INFO","time":"2023-09-23T09:48:07.150+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T09:48:07.150+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T10:12:33.445+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T10:13:55.960+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=zyf&password=31323300190ea3d40c1c397fc4151b6e27b52","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0011798}
+{"level":"INFO","time":"2023-09-23T10:14:31.630+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0047035}
+{"level":"INFO","time":"2023-09-23T10:16:20.076+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T10:16:20.077+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T10:16:23.671+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T10:16:32.714+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=zyf&password=31323300190ea3d40c1c397fc4151b6e27b52","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0013255}
+{"level":"INFO","time":"2023-09-23T10:19:46.667+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T10:19:46.667+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T10:19:50.768+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T10:20:05.498+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=zyf&password=123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.001251}
+{"level":"INFO","time":"2023-09-23T10:20:29.732+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T10:20:29.732+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T10:20:32.788+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"ERROR","time":"2023-09-23T10:20:36.835+0800","caller":"controller/userController.go:64","msg":"login with invalid param","error":"EOF"}
+{"level":"INFO","time":"2023-09-23T10:20:36.836+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=zyf&password=123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0}
+{"level":"ERROR","time":"2023-09-23T10:20:49.121+0800","caller":"controller/userController.go:64","msg":"login with invalid param","error":"EOF"}
+{"level":"INFO","time":"2023-09-23T10:20:49.121+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=zyf&password=123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0}
+{"level":"INFO","time":"2023-09-23T10:21:23.893+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T10:21:23.893+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T10:21:27.746+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T10:21:32.262+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=zyf&password=123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.00076}
+{"level":"INFO","time":"2023-09-23T10:21:59.577+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=zyf&password=1234","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0008488}
+{"level":"INFO","time":"2023-09-23T10:22:10.699+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T10:22:10.699+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T10:22:14.151+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T10:22:17.194+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T10:22:17.194+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T10:22:20.952+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T10:22:32.278+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=zyf&password=1234","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0006747}
+{"level":"INFO","time":"2023-09-23T10:22:43.162+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=lisi&password=1234","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0013651}
+{"level":"INFO","time":"2023-09-23T10:22:50.049+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=lisi&password=123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0012477}
+{"level":"INFO","time":"2023-09-23T10:23:03.767+0800","caller":"logger/logger.go:85","msg":"/user/signUp","status":200,"method":"POST","path":"/user/signUp","query":"","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0032595}
+{"level":"INFO","time":"2023-09-23T10:23:13.226+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=wangwu&password=123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0015122}
+{"level":"INFO","time":"2023-09-23T10:23:18.192+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=wangwu&password=1123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0007179}
+{"level":"INFO","time":"2023-09-23T10:40:15.448+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T10:40:15.448+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T17:33:24.419+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"DEBUG","time":"2023-09-23T17:34:05.542+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T17:34:35.557+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=wangwu&password=1123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0279157}
+{"level":"INFO","time":"2023-09-23T17:35:27.976+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T17:35:27.976+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T17:35:31.605+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T17:35:38.453+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=wangwu&password=1123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0011372}
+{"level":"INFO","time":"2023-09-23T17:39:24.116+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T17:39:24.116+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T17:39:27.335+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T17:39:33.144+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=wangwu&password=1123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.001069}
+{"level":"INFO","time":"2023-09-23T17:41:25.736+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T17:41:25.736+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T17:41:29.247+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T17:41:33.702+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=wangwu&password=1123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0007928}
+{"level":"INFO","time":"2023-09-23T17:43:41.281+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T17:43:41.281+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T17:43:45.642+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T17:43:51.427+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=wangwu&password=1123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0012612}
+{"level":"INFO","time":"2023-09-23T17:46:31.346+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T17:46:31.346+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T17:46:34.551+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T17:46:39.043+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=wangwu&password=1123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0008222}
+{"level":"INFO","time":"2023-09-23T17:55:55.744+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T17:55:55.744+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T17:56:00.160+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T17:56:05.603+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=wangwu&password=1123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0010395}
+{"level":"INFO","time":"2023-09-23T17:57:48.894+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T17:57:48.894+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T17:57:52.612+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T17:57:59.232+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=wangwu&password=1123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0013036}
+{"level":"INFO","time":"2023-09-23T17:58:43.720+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T17:58:43.721+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T17:58:47.650+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T17:58:51.760+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=wangwu&password=1123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0012466}
+{"level":"INFO","time":"2023-09-23T19:07:44.374+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T19:07:44.375+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T19:07:46.830+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T19:08:04.459+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=wangwu&password=1123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.00096}
+{"level":"INFO","time":"2023-09-23T19:12:09.014+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T19:12:09.014+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T19:12:12.322+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T19:12:25.251+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=wangwu&password=1123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0010165}
+{"level":"INFO","time":"2023-09-23T19:41:52.703+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T19:41:52.703+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T20:05:35.656+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T20:05:48.211+0800","caller":"logger/logger.go:85","msg":"/user/login","status":200,"method":"GET","path":"/user/login","query":"username=wangwu&password=1123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0015279}
+{"level":"INFO","time":"2023-09-23T20:05:54.937+0800","caller":"logger/logger.go:85","msg":"/user/ping","status":200,"method":"GET","path":"/user/ping","query":"username=wangwu&password=1123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0}
+{"level":"INFO","time":"2023-09-23T20:10:06.853+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T20:10:06.854+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T20:10:11.124+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T20:10:15.482+0800","caller":"logger/logger.go:85","msg":"/user/ping","status":200,"method":"GET","path":"/user/ping","query":"username=wangwu&password=1123","ip":"::1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0002101}
+{"level":"INFO","time":"2023-09-23T20:11:36.689+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T20:11:36.689+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T20:13:29.649+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T20:14:30.833+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T20:14:30.833+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
+{"level":"DEBUG","time":"2023-09-23T21:30:49.631+0800","caller":"BlueBell/main.go:35","msg":"logger init success"}
+{"level":"INFO","time":"2023-09-23T21:31:07.249+0800","caller":"BlueBell/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-09-23T21:31:07.249+0800","caller":"BlueBell/main.go:89","msg":"Server exiting ..."}
