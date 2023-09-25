@@ -14,6 +14,8 @@ func Setup() *gin.Engine {
 
 	// 路由分组 加载路由文件
 	routers.UsersGroup(r)
+	routers.CommunityGroup(r)
+	routers.PostGroup(r)
 
 	return r
 }

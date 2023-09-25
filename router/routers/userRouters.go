@@ -7,6 +7,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
+// 用户相关的controller
 var user controller.Users
 
 // UsersGroup 用户的请求路径

@@ -24,7 +24,7 @@ func Init(cfg *settings.MySQLConfig) (err error) {
 		zap.L().Error("connect DB failed", zap.Error(err))
 		return
 	}
-	db.SetMaxOpenConns(cfg.MaxOpenConnection)
+	db.SetMaxOpenConns(cfg.MaxOpenConnection) //设置同时打开的连接数(使用中+空闲)
 	db.SetMaxIdleConns(cfg.MaxIdleConnection)
 	return
 }

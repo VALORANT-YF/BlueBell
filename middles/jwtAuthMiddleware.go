@@ -3,7 +3,6 @@ package middles
 import (
 	"bluebell/controller"
 	"bluebell/pkg/jwtToken"
-	"fmt"
 	"strings"
 
 	"github.com/gin-gonic/gin"
@@ -16,7 +15,6 @@ func JWTAuthMiddleware() func(c *gin.Context) {
 		// 这里假设 Token 放在 Header 的 Authorization 中，并使用 Bearer 开头
 		// Authorization: Bearer xxx.xxx.xxx
 		authHeader := c.Request.Header.Get("Authorization")
-		fmt.Println("authHeader")
 		if authHeader == "" {
 			controller.ResponseError(c, controller.CodeNeedLogin)
 			c.Abort()

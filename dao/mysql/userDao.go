@@ -42,3 +42,11 @@ func QueryUserId(p *models.UserLoginParams, u *models.UserId) (bool, error) {
 	}
 	return u.Id > 0, nil
 }
+
+// SelectPostAuthorById 根据id获取发帖人昵称
+func SelectPostAuthorById(userId int64) (username string, err error) {
+	sqlStr := `select username from user where user_id = ?`
+	//执行sql
+	err = db.Get(&username, sqlStr, userId)
+	return
+}
